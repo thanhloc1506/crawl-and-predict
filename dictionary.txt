@@ -1,0 +1,31 @@
+thời sự
+'12', 'an', 'báo', 'chủ', 'công', 'dân', 'giao', 'hcm', 'hội', 'nam', 'người', 'nhân', 'phòng', 'quốc', 'thông',
+'tp', 'tra', 'trung', 'tỉnh', 'văn', 'vụ', 'xe', 'xã', 'đường'
+
+kinh doanh
+'công', 'doanh', 'dịch', 'gia', 'giá', 'hàng', 'hội', 'kinh', 'nam', 'nghiệp', 'phát', 'quốc', 'thị', 
+'tp', 'trường', 'ty', 'tư', 'tỉ', 'việt', 'đầu', 'đồng', 'động'
+
+văn hóa 
+'chủ', 'chức', 'công', 'gia', 'hà', 'học', 'hội', 'một', 'nam', 'nghệ', 'nguyễn', 'những', 'nội', 
+'sách', 'sĩ', 'thành', 'tp', 'tác', 'tổ', 'việt', 'văn', 'ảnh'
+
+giải trí
+'ca', 'công', 'diễn', 'giả', 'giải', 'hình', 'một', 'nam', 'ng', 'nghệ', 'nhân', 'nhạc', 'phim', 'phát', 
+'quốc', 'sĩ', 'thành', 'thông', 'trong', 'viên', 'việt', 'ảnh'
+
+giáo dục
+'công', 'dục', 'gd', 'giáo', 'hcm', 'học', 'nghiệp', 'quốc', 'sinh', 'thi', 'thí', 'tp', 'trường', 
+'tuyển', 'tế', 'tổ', 'viên', 'văn', 'đh', 'điểm', 'đt', 'đại'
+
+thế giới
+'11', '12', '19', 'bang', 'biden', 'báo', 'bầu', 'công', 'cử', 'dịch', 'hãng', 'mỹ', 'phiếu', 'phát',
+'quốc', 'thông', 'thống', 'trong', 'trump', 'trung', 'tổng', 'ông'
+
+khoa học
+'báo', 'bão', 'bắc', 'bộ', 'các', 'có', 'công', 'cứu', 'dự', 'gia', 'học', 'khoa', 'khu', 'khí', 'mưa', 'nam', 
+'phát', 'quốc', 'trong', 'trung', 'tâm', 'đông', 'độ'
+
+xe
+'chiếc', 'công', 'giao', 'giá', 'hàng', 'hành', 'lái', 'mẫu', 'nam', 'quốc', 'sản', 'thông', 'thị', 
+'triệu', 'trường', 'việt', 'xe', 'xuất', 'ôtô', 'đường', 'đồng', 'động'
