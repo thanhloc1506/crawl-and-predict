@@ -21,7 +21,7 @@ def storedDB(title, abstract, content, theloai, image, TABLE):
 
     mydb = mysql.connector.connect(
         host="localhost",
-        user="user",
+        user="root",
         password="LocT@2031",
         database="baotuoitre"
     )
@@ -36,7 +36,7 @@ def storedDB(title, abstract, content, theloai, image, TABLE):
 def query(theloai):
     mydb = mysql.connector.connect(
         host="localhost",
-        user="user",
+        user="root",
         password="LocT@2031",
         database="baotuoitre"
     )
