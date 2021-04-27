@@ -21,10 +21,11 @@ pip install beautifulsoup4
 # Run
 
 ```bash
-Python craw.py
+Python crawl.py
 ```
 
 # Database
+
 ```bash
 Đã thêm dữ liệu crawl được vô database bằng hàm storeDB
 Nhưng phải connect với mysql theo format
@@ -34,4 +35,9 @@ mydb = mysql.connector.connect(
      password="mypassword",
      database="mydatabase"
 )
+```
+
+```bash
+Python predict.py
+Để chạy đoán đoạn text bất kỳ thuộc thể loại báo nào
 ```
